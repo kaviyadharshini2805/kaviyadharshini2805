@@ -100,14 +100,6 @@ Percentage: 71%
 
 ---
 
-## Certifications
-
-* Foundations of Machine Learning – AWS
-* Intermediate R – DataCamp
-* Data Visualization and Dashboards with Excel and Cognos – Coursera
-
----
-
 ## Interests
 
 * Data Science and Applied AI
