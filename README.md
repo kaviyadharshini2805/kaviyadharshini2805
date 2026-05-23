@@ -96,4 +96,4 @@ Percentage: 71%
 - GitHub: https://github.com/kaviyadharshini2805  
 - LeetCode: https://leetcode.com/u/kvz07  
 - Email: kaviyadharshini.works@gmail.com  
-- Resume: [View Resume](https://drive.google.com/file/d/1O7Za0fjepPDTsuIPF4FOtgKIk5XjBOhI/view)
+- Resume: [View Resume](https://drive.google.com/file/d/1O7Za0fjepPDTsuIPF4FOtgKIk5XjBOhE/view?usp=drive_link)
