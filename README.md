@@ -1,99 +1,277 @@
 # Hi, I'm Kaviyadharshini
 
-Third Year Computer Science Engineering Student  
-Focused on building intelligent, scalable, and user-centric AI applications
+
+
+**Third-Year Computer Science Engineering Student**
+
+Building intelligent applications with Artificial Intelligence, Machine Learning, and Data Science.
+
+
 
 ---
+
+
 
 ## About Me
 
-Computer Science student with a strong foundation in programming and applied AI, with hands-on experience in building intelligent applications using LLMs, RAG pipelines, and vector databases. Skilled in designing scalable AI systems, working with frameworks like LangChain, and integrating models into real-world solutions. Focused on developing efficient, practical, and AI-driven systems.
+
+
+I'm a Computer Science student with a strong foundation in programming and applied AI. My work focuses on developing intelligent applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and vector search.
+
+
+
+I enjoy designing scalable AI systems, exploring modern machine learning techniques, and building practical solutions for real-world problems. My goal is to strengthen my understanding of machine learning, deep learning, and natural language processing while applying these concepts through hands-on projects.
+
+
 
 ---
+
+
 
 ## Education
 
-**B.E. Computer Science and Engineering**  
-Rathinam Technical Campus (2023 – Present)  
-CGPA: 8.5  
 
-**Higher Secondary School**  
-Sri Ragavendra Matriculation Higher Secondary School (2022 – 2023)  
-Percentage: 71%
+
+**B.E. Computer Science and Engineering**
+
+Rathinam Technical Campus (2023 – Present)
+
+**CGPA:** 8.5
+
+
+
+**Higher Secondary School**
+
+Sri Ragavendra Matriculation Higher Secondary School (2022 – 2023)
+
+**Percentage:** 71%
+
+
 
 ---
 
-## Skills
 
-### Data Science
-- Python (Pandas, NumPy, Scikit-learn)
-- R
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Data Visualization (Matplotlib, Seaborn)
-- Supervised & Unsupervised Learning
-- Model Evaluation
 
-### Programming & Tools
-- Python, Java, C
-- GitHub
-- Power BI, Excel
-- PostgreSQL, MySQL
+## Technical Skills
 
-### AI Technologies
-- LLMs, RAG, Agentic AI
-- LangChain, Claude API
-- FAISS (Vector Databases)
-- n8n
+
+
+### Data Science & Machine Learning
+
+
+
+* Python (Pandas, NumPy, Scikit-learn)
+
+* Exploratory Data Analysis (EDA)
+
+* Feature Engineering
+
+* Data Visualization (Matplotlib, Seaborn)
+
+* Supervised & Unsupervised Learning
+
+* Model Evaluation
+
+
+
+### Artificial Intelligence
+
+
+
+* Large Language Models (LLMs)
+
+* Retrieval-Augmented Generation (RAG)
+
+* Agentic AI
+
+* LangChain
+
+* FAISS
+
+* Claude API
+
+* n8n Workflow Automation
+
+
+
+### Programming & Databases
+
+
+
+* Python
+
+* Java
+
+* C
+
+* Git & GitHub
+
+* PostgreSQL
+
+* MySQL
+
+
 
 ### Web Development
-- HTML, CSS
-- React
+
+
+
+* HTML
+
+* CSS
+
+* React
+
+
+
+### Tools
+
+
+
+* Power BI
+
+* Microsoft Excel
+
+* VS Code
+
+* Jupyter Notebook
+
+
 
 ### Soft Skills
-- Communication
-- Adaptability
-- Leadership
-- Time Management
+
+
+
+* Communication
+
+* Leadership
+
+* Adaptability
+
+* Time Management
+
+
 
 ---
 
-## Internships
 
-**Data Science Intern – Adventure Technologies**
-- Built and optimized machine learning models for predictive analytics, improving forecasting accuracy and supporting data-driven decision-making  
-- Performed data cleaning, feature engineering, and exploratory data analysis on structured datasets  
-- Used SQL for data extraction and analysis  
 
-**Data Science Intern – Internboot**
-- Performed data cleaning, preprocessing, and EDA using Python (Pandas, NumPy)  
-- Applied SQL for data extraction and validation  
-- Created dashboards and visualizations for decision-making support  
+## Internship Experience
+
+
+
+### Data Science Intern — Adventure Technologies
+
+
+
+* Built and optimized machine learning models for predictive analytics, improving forecasting accuracy and supporting data-driven decision-making.
+
+* Performed data cleaning, feature engineering, and exploratory data analysis on structured datasets.
+
+* Used SQL for data extraction and analysis.
+
+
+
+### Data Science Intern — Internboot
+
+
+
+* Performed data cleaning, preprocessing, and exploratory data analysis using Python (Pandas, NumPy).
+
+* Applied SQL for data extraction and validation.
+
+* Developed dashboards and visualizations to communicate business insights effectively.
+
+
 
 ---
 
-## Interests
 
-- Data Science and Applied AI  
-- Full Stack Development  
-- Intelligent Systems and Automation  
-- Problem Solving and Algorithms  
+
+## Currently Learning
+
+
+
+* Machine Learning
+
+* Deep Learning
+
+* Natural Language Processing
+
+* Generative AI
+
+* AI Agents and Multi-Agent Systems
+
+* MLOps
+
+
 
 ---
+
+
+
+## Areas of Interest
+
+
+
+* Artificial Intelligence
+
+* Machine Learning
+
+* Data Science
+
+* Natural Language Processing
+
+* Intelligent Systems
+
+* Software Development
+
+* Automation
+
+
+
+---
+
+
 
 ## GitHub Goals
 
-- Build real-world AI and data-driven applications  
-- Maintain consistency in coding and learning  
-- Write clean, maintainable, and documented code  
-- Continuously improve through hands-on projects  
+
+
+* Build production-ready AI applications
+
+* Develop scalable machine learning and generative AI solutions
+
+* Strengthen core AI and software engineering fundamentals
+
+* Share clean, maintainable, and well-documented projects
+
+* Continuously improve through hands-on development
+
+
 
 ---
 
+
+
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/kaviyadharshini-works  
-- GitHub: https://github.com/kaviyadharshini2805  
-- LeetCode: https://leetcode.com/u/kvz07  
-- Email: kaviyadharshini.works@gmail.com  
-- Resume: [View Resume](https://drive.google.com/file/d/1O7Za0fjepPDTsuIPF4FOtgKIk5XjBOhE/view?usp=drive_link)
+
+
+**LinkedIn:** https://www.linkedin.com/in/kaviyadharshini-works
+
+
+
+**GitHub:** https://github.com/kaviyadharshini2805
+
+
+
+**LeetCode:** https://leetcode.com/u/kvz07
+
+
+
+**Email:** [kaviyadharshini.works@gmail.com](mailto:kaviyadharshini.works@gmail.com)
+
+
+
+**Resume:** https://drive.google.com/file/d/1PcqXsVoliV_EB6dzV0acgUFnF4CGyjab/view?usp=sharing
