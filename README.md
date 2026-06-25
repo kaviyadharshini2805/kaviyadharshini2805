@@ -102,8 +102,6 @@ Sri Ragavendra Matriculation Higher Secondary School (2022 – 2023)
 
 * Java
 
-* C
-
 * Git & GitHub
 
 * PostgreSQL
