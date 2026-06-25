@@ -122,20 +122,6 @@ Sri Ragavendra Matriculation Higher Secondary School (2022 – 2023)
 
 
 
-### Tools
-
-
-
-* Power BI
-
-* Microsoft Excel
-
-* VS Code
-
-* Jupyter Notebook
-
-
-
 ### Soft Skills
 
 
