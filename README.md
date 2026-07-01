@@ -1,8 +1,8 @@
 # Kaviyadharshini M
-<div align="center">
-## Software Development | Data Science | Machine Learning
-</div>
----
+## <div align="center">
+ Software Development | Data Science | Machine Learning
+## </div>
+
 
 ## About Me
 
