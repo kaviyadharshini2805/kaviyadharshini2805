@@ -1,4 +1,4 @@
-# Hello, Kaviyadharshini M
+# Hello, I'm Kaviyadharshini M
 ## <div align="center">
  Software Development | Data Science | Machine Learning
 ## </div>
