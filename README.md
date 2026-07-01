@@ -1,18 +1,16 @@
 # Kaviyadharshini M
-
-Software Development | Data Science | Machine Learning
-
+<div align="center">
+## Software Development | Data Science | Machine Learning
+</div>
 ---
 
 ## About Me
 
-I am a third-year Computer Science Engineering student with an interest in software development, data science, and artificial intelligence. I enjoy understanding how systems work and applying that knowledge to build practical applications.
+I am a final-year Computer Science Engineering student with an interest in software development, data science, and artificial intelligence. I primarily work with Python and have built projects involving web applications, REST APIs, data processing, information extraction, and automation.
 
-My primary programming language is Python, and I have worked on projects involving data processing, REST APIs, web applications, and information extraction. Through these projects, I have gained experience in designing modular code, working with structured and unstructured data, and developing applications from idea to implementation.
+Through academic and personal projects, I have gained experience working with structured and unstructured data, designing modular applications, and implementing backend solutions. I am continuously strengthening my understanding of data structures and algorithms, databases, machine learning, and software engineering by building practical projects and improving my problem-solving skills.
 
-Alongside project development, I am strengthening my understanding of data structures and algorithms, databases, object-oriented programming, and software engineering principles. I believe that consistent practice and hands-on development are the most effective ways to improve as a software engineer.
-
-I am currently seeking opportunities to apply my technical skills, learn from experienced engineers, and contribute to meaningful software projects.
+I am currently seeking software engineering and data science opportunities where I can contribute, learn from experienced teams, and continue growing as a developer.
 
 ---
 
@@ -22,8 +20,7 @@ I am currently seeking opportunities to apply my technical skills, learn from ex
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Libraries & Frameworks
 
