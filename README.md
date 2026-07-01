@@ -73,7 +73,6 @@ I build intelligent applications using Machine Learning, Large Language Models (
 ## Connect
 
 * **LinkedIn:** https://www.linkedin.com/in/kaviyadharshini-works
-* **GitHub:** https://github.com/kaviyadharshini2805
 * **LeetCode:** https://leetcode.com/u/kvz07
 * **Email:** [kaviyadharshini.works@gmail.com](mailto:kaviyadharshini.works@gmail.com)
 * **Resume:** https://drive.google.com/file/d/1PcqXsVoliV_EB6dzV0acgUFnF4CGyjab/view
