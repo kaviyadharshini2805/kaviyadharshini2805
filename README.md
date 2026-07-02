@@ -85,4 +85,4 @@ A document parsing application that extracts information such as contact details
 
 ---
 
-> "Good software is built through careful thinking, consistent practice, and attention to detail."
+> "Code with purpose. Build with precision."
