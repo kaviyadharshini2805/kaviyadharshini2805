@@ -53,15 +53,16 @@ A web application that combines information from multiple candidate data sources
 
 A research assistant that collects information from multiple sources, summarizes the results, and presents them in a structured format to reduce manual research effort.
 
-**Tech Stack:** Python
+**Tech Stack:** Python, FastAPI, HTML, CSS
 
 ---
 
-### Resume Parser
+### File Organizer with MCP
 
-A document parsing application that extracts information such as contact details, education, skills, experience, and location from resumes in different formats.
+An intelligent file management application that uses the **Model Context Protocol (MCP)** to organize files automatically based on their type, content, or user-defined rules. It streamlines file organization through natural language interactions and automated workflows.
 
-**Tech Stack:** Python, Regular Expressions
+**Tech Stack:** Python, Model Context Protocol (MCP)
+
 
 ---
 
