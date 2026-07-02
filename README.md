@@ -1,16 +1,15 @@
 # Hello, I'm Kaviyadharshini M
-## <div align="center">
- Software Development | Data Science | Machine Learning
-## </div>
+<div align="center">
+ ## **Artificial Intelligence | Data Science | Machine Learning**
+</div>
 
 
 ## About Me
 
-I am a final-year Computer Science Engineering student with an interest in software development, data science, and artificial intelligence. I primarily work with Python and have built projects involving web applications, REST APIs, data processing, information extraction, and automation.
+I am a final-year Computer Science Engineering student focused on software development and data science. I build backend applications, automation tools, and data-driven solutions using Python & JAVA. My experience includes working with structured and unstructured data, designing modular applications, and solving real-world problems through practical projects.
 
-Through academic and personal projects, I have gained experience working with structured and unstructured data, designing modular applications, and implementing backend solutions. I am continuously strengthening my understanding of data structures and algorithms, databases, machine learning, and software engineering by building practical projects and improving my problem-solving skills.
+I am strengthening my skills in data structures, algorithms, databases, machine learning, and software engineering, and I am seeking software engineering or data science opportunities where I can contribute and continue to grow.
 
-I am currently seeking software engineering and data science opportunities where I can contribute, learn from experienced teams, and continue growing as a developer.
 
 ---
 
