@@ -1,7 +1,7 @@
 # Hello, I'm Kaviyadharshini M
-<div align="center">
- ## **Artificial Intelligence | Data Science | Machine Learning**
-</div>
+
+
+<h2 align="center"><strong>Artificial Intelligence | Data Science | Machine Learning</strong></h2>
 
 
 ## About Me
