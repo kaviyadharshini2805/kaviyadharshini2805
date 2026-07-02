@@ -1,4 +1,4 @@
-<h2 align="center"><strong>Hello, I'm Kaviyadharshini M</strong></h2>
+<h1 align="center"><strong>Hello, I'm Kaviyadharshini M</strong></h1>
 
 
 <h2 align="center"><strong>Artificial Intelligence | Data Science | Machine Learning</strong></h2>
