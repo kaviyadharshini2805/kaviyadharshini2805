@@ -2,23 +2,6 @@
 
 <h3 align="center">Artificial Intelligence | Data Science | Machine Learning | LLMs</h3>
 
-<p align="center">
-  <a href="https://github.com/kaviyadharshini2805">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kaviyadharshini-works">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/kvz07">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:kaviyadharshini.works@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1PcqXsVoliV_EB6dzV0acgUFnF4CGyjab/view">
-    <img src="https://img.shields.io/badge/Resume-34A853?style=flat-square&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
