@@ -111,7 +111,7 @@ An intelligent file management application that organizes files automatically us
   <a href="https://www.linkedin.com/in/kaviyadharshini-works">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/kvz07">
+  <a href="https://leetcode.com/u/kaviyadharshinii_">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:kaviyadharshini.works@gmail.com">
