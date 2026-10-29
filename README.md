@@ -117,7 +117,7 @@ An intelligent file management application that organizes files automatically us
   <a href="mailto:kaviyadharshini.works@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1PcqXsVoliV_EB6dzV0acgUFnF4CGyjab/view">
+  <a href="https://drive.google.com/drive/folders/1hZTMFMkqrvNVATQTAIPexkBNP5Dq4xv0?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-34A853?style=flat-square&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
